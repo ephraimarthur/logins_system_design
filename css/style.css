@@ -1,0 +1,36 @@
+.wrapper{
+  height: auto;
+  padding: 2%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 4%;
+
+
+}
+
+
+.login_box {
+  height: auto;
+  padding: 2%;
+  max-width: 500px;
+  margin: auto;
+
+}
+
+
+.login_box label{
+  font-size: 18px;
+  text-align: left;
+}
+
+.login_header img{
+  width:80px;
+  height: auto;
+}
+
+.login_header p {
+  text-align: center;
+  font-size: 18px;
+  font-family: arial black;
+}
